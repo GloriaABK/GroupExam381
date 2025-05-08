@@ -3,8 +3,6 @@ This repository contains the notebook for an anonymous exam. It is configured to
 **Features**
 - Runnable in Google Colab
 - Local execution via Jupyter Notebook
-- One-click launch with Binder
-- Automated notebook validation via GitHub Actions
 
 **Run Locally**
 - jupyter notebook GroupExam_INFO381.ipynb
